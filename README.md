@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **AlgoMinds** · Team ID `VTU-QFF-HC-0088` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#AlgoMinds)
+[⬆ Back to Top](#algominds)
 
 </div>
